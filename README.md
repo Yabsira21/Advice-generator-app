@@ -1,1 +1,1 @@
-lIVE SITE URL: https://yabsira21.github.io/Advice-generator-app/
+LIVE SITE URL: https://yabsira21.github.io/Advice-generator-app/
